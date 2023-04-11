@@ -1,11 +1,11 @@
 # Level 1
 The password for the next level is stored in a file named '-' located in the home directory.<br /><br />
 
-HOST = bandit.labs.overthewire.org
-PORT = 2220
-USERNAME = bandit1
-PASSWORD = NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
-SERVICE = ssh
+HOST = bandit.labs.overthewire.org<br />
+PORT = 2220<br />
+USERNAME = bandit1<br />
+PASSWORD = NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL<br />
+SERVICE = ssh<br /><br />
 
 To log on the server using ssh, we simply have to type the command:
 ```bash
