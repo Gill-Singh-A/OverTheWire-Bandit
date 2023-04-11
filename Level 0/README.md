@@ -1,6 +1,6 @@
 # Level 0
 In this level we have to log on to the server using ssh.<br />
-And the password that we have to get is stored in a file named 'readme' located in the home directory of the server.<br /><br />
+And the password that we have to get is stored in a file named 'readme' located in the home directory of the user.<br /><br />
 
 HOST = bandit.labs.overthewire.org<br />
 PORT = 2220<br />
