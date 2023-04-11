@@ -5,7 +5,8 @@ And the password that we have to get is stored in a file named 'readme' located 
 HOST = bandit.labs.overthewire.org<br />
 PORT = 2220<br />
 USERNAME = bandit0<br />
-PASSWORD = bandit0<br /><br />
+PASSWORD = bandit0<br />
+SERVICE = ssh<br /><br />
 
 
 To log on the server using ssh, we simply have to type the command:
