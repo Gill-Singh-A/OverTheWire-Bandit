@@ -1,5 +1,7 @@
 # Level 0
-In this level we have to log on to the server using ssh.<br /><br />
+In this level we have to log on to the server using ssh.<br />
+And the password that we have to get is stored in a file named 'readme' located in the home directory of the server.<br /><br />
+
 HOST = bandit.labs.overthewire.org<br />
 PORT = 2220<br />
 USERNAME = bandit0<br />
@@ -117,6 +119,12 @@ discord or IRC.
 
 bandit0@bandit:~$
 ```
+Lets check the current working directory with 'pwd' command:
+```bash
+bandit0@bandit:~$ pwd
+/home/bandit0
+```
+Here, we see that we're in the home directory of the bandit0 user, in which the 'readme' file is stored.<br />
 Here, lets type 'ls -l' command to check out the files in the current directory.
 ```bash
 bandit0@bandit:~$ ls -l
