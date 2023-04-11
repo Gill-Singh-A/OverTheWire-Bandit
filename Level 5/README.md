@@ -414,6 +414,11 @@ bandit5@bandit:~/inhere$ du -a -b | grep 1033
 1033	./maybehere07/.file2
 ```
 This tells us that there is a file '.file2', which has a size of 1033 bytes and is located in 'maybehere07' directory.<br />
+Here, this file have all the required conditions:
+* human-readable
+* 1033 bytes in size
+* not executable
+<!-- -->
 So let's open that file with cat:
 ```bash
 bandit5@bandit:~/inhere$ cat maybehere07/.file2
