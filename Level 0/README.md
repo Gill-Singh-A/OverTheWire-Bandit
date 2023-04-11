@@ -29,7 +29,7 @@ After this we will be greeted with the following text:
 bandit0@bandit.labs.overthewire.org's password:
 ```
 Here we have to give the password which is given above.<br />
-After entering the password, we get the following text and access to the shell of the server.
+After entering the password, we get the following text and access to the server's shell.
 ```bash
       ,----..            ,----,          .---.
      /   /   \         ,/   .`|         /. ./|
