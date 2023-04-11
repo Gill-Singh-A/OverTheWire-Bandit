@@ -1537,7 +1537,9 @@ bandit9@bandit:~$ xxd data.txt | nl | grep 1015
 Here, we got the password for the Level 10 of Bandit in 3 different lines.<br />
 So, our purpose is complete. Let's logout from the server using the 'exit' command
 ```bash
-
+bandit9@bandit:~$ exit
+logout
+Connection to bandit.labs.overthewire.org closed.
 ```
 <br />
 Password for Level 10 = G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
