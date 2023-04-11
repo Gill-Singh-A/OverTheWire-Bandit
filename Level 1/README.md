@@ -116,7 +116,7 @@ discord or IRC.
 
   Enjoy your stay!
 
-bandit0@bandit:~$
+bandit1@bandit:~$
 ```
 Lets check the current working directory with 'pwd' command:
 ```bash
