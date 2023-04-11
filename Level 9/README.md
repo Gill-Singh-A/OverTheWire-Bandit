@@ -1,5 +1,5 @@
 # Level 9
-The password for the next level is stored in a file name 'data.txt' in one of the few human-readable strings, preceded by several '=' characters.<br /><br />
+The password for the next level is stored in a file named 'data.txt' in one of the few human-readable strings, preceded by several '=' characters.<br /><br />
 
 HOST = bandit.labs.overthewire.org<br />
 PORT = 2220<br />
