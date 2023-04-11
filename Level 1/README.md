@@ -1,5 +1,5 @@
 # Level 1
-The password for the next level is stored in a file named '-' located in the home directory.<br /><br />
+The password for the next level is stored in a file named '-' located in the home directory of the user.<br /><br />
 
 HOST = bandit.labs.overthewire.org<br />
 PORT = 2220<br />
