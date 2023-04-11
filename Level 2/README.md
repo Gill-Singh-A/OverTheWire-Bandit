@@ -141,7 +141,7 @@ Another method for opening this file with 'cat' command is:
 bandit2@bandit:~$ cat 'spaces in this filename' 
 aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 ```
-Here, we got the password for the Level 2 of Bandit.<br />
+Here, we got the password for the Level 3 of Bandit.<br />
 So, our purpose is complete. Let's logout from the server using the 'exit' command
 ```bash
 bandit2@bandit:~$ exit
@@ -149,4 +149,4 @@ logout
 Connection to bandit.labs.overthewire.org closed.
 ```
 <br />
-Password for Level 2 = aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+Password for Level 3 = aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
