@@ -21,8 +21,8 @@ The first character of that string is either '-' or 'd'
 * '-' : File
 * 'd' : Directory
 <!-- -->
-The next 3 characters tells us about the permissions that the user have on that file.<br />
-The next 3 characters tells us about the permissions that the group of that user have on that file.<br />
+The next 3 characters tells us about the permissions that the owner have on that file.<br />
+The next 3 characters tells us about the permissions that the group of that owner have on that file.<br />
 The next 3 characters tells us about the permissions that all the other users have on that file.<br />
 Permissions (same order as that of given by 'ls -l' command):
 * 'r' : read
