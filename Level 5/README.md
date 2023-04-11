@@ -425,8 +425,8 @@ bandit5@bandit:~/inhere$ cat maybehere07/.file2
 P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
 ```
-Here, we got the password for Level 6 of Bandit.
-So, out purpose is complete. Let's logout from the server using the 'exit' command
+Here, we got the password for Level 6 of Bandit.<br />
+So, our purpose is complete. Let's logout from the server using the 'exit' command
 ```bash
 bandit5@bandit:~/inhere$ exit
 logout
